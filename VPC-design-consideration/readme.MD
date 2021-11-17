@@ -1,3 +1,3 @@
 # VPC Design consideration #
-<img src="CIDR1.jpg"/>
-<img src="CIDR2.jpg"/>
+<img src="image/CIDR1.JPG"/>
+<img src="image/CIDR2.JPG"/>
