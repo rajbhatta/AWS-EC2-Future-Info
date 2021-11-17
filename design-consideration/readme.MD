@@ -30,5 +30,5 @@
 5. DNS hostname and resolution are performed by AWS.
 
 ## Reference ##
-1. https://www.youtube.com/watch?v=dMVy3BQB314
+1. https://www.youtube.com/watch?v=tD9vDv0uyI8
 
